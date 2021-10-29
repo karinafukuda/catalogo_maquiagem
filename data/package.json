@@ -1,0 +1,12 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch products.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karinafukuda",
+  "license": "ISC"
+}

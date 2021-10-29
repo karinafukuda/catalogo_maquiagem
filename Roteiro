@@ -1,0 +1,13 @@
+Checklist Primeira aula ✓
+
+(✓) TP: Fetch json http://makeup-api.herokuapp.com/api/v1/products.json
+(✓) TP: Lógica productItem() e productDetails() 
+(✓) TP: Lógica para ordenacao
+(✓) TP: Lógica para os carregar os itens
+(✓) TP: Lógica para carregar o combo
+(✓) TP: Adicionar os manipuladores no filtro por nome, marca, tipo e ordenação
+( ) Implementar Lazy Loading
+( ) Responsividade
+( ) Acessibilidade
+( ) Refatorar o código
+
